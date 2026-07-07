@@ -1,0 +1,10 @@
+streamlit
+pdfminer.six
+langchain-core
+langchain-openai
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+chromadb
+openai
