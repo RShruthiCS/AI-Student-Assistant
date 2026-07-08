@@ -8,7 +8,7 @@ from langchain_openai import ChatOpenAI
 import tempfile
 import os
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "your_openai_api_key_here"
 def build_pipeline(pdf_path):
     # Extract text
     raw_text = extract_text(pdf_path)
